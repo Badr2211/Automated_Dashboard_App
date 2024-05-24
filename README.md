@@ -1,5 +1,8 @@
 
 # Automated and Interactive Dashboard for Data Analytics
+# My Cool Video
+
+[![Play Video](https://github.com/Badr2211/Automated_Dashboard_App/raw/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)](https://github.com/Badr2211/Automated_Dashboard_App/raw/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)
 
 ## Introduction
 Welcome to our Automated and Interactive Dashboard project! This tool is designed to assist data analysts in creating intuitive dashboards and to help stakeholders with no analytical background understand their data with ease. Our dashboard includes a built-in Gemini model that analyzes graphs and presents insights in an understandable format.
