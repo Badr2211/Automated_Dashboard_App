@@ -3,9 +3,12 @@
 # My Cool Video
 
 [![Play Video](https://github.com/Badr2211/Automated_Dashboard_App/raw/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4)]
+
 <video width="320" height="240" controls>
     <source src="https://github.com/Badr2211/Automated_Dashboard_App/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
     </video>
+
+    
 ## Introduction
 Welcome to our Automated and Interactive Dashboard project! This tool is designed to assist data analysts in creating intuitive dashboards and to help stakeholders with no analytical background understand their data with ease. Our dashboard includes a built-in Gemini model that analyzes graphs and presents insights in an understandable format.
 
